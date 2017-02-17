@@ -1,4 +1,5 @@
-![My photo](https://github.com/IpshitaC/portfolio/blob/master/assets/images/photo.jpg) 
+![My photo](https://github.com/IpshitaC/portfolio/blob/master/assets/images/photo.png) 
+
 
 # [](summary)Summary
 Hi! I am Ipshita Chatterjee, a junior at Netaji Subhas Institute of Technology, University of Delhi, majoring in Computer Engineering.
@@ -38,3 +39,5 @@ C | C++ | Java (Swing MVC) | Python (Flask MVC) | MySQL | HTML5 | CSS3 (Bootstra
 >I interned as a **researcher** at ERNET in December 2014.
 >
 >The analysis of security and implementation of the Digital Archival Portal, a repository of 10+ Indian language resources for researchers allowed me to work with an exciting project serving the education and research community in India, at very close quarters.
+
+## Projects
