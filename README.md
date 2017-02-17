@@ -1,4 +1,4 @@
-![My photo](/assets/images/photo.jpg) 
+![My photo](https://github.com/IpshitaC/portfolio/blob/master/assets/images/photo.jpg) 
 
 # [](summary)Summary
 Hi! I am Ipshita Chatterjee, a junior at Netaji Subhas Institute of Technology, University of Delhi, majoring in Computer Engineering.
