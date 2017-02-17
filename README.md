@@ -7,9 +7,9 @@ I spend my time exploring the latest developments in the world of technology, es
 
 * * *
 ## [](skills)Skills
-'''
+```
 C | C++ | Java (Swing MVC) | Python (Flask MVC) | MySQL | HTML5 | CSS3 (Bootstrap) | JavaScript (JQuery) | Git | Linux | Latex
-'''
+```
 
 
 ## [](education)Education
